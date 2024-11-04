@@ -1,0 +1,33 @@
+export '../../../flutter_flow/lat_lng.dart';
+export 'package:supabase_flutter/supabase_flutter.dart' hide Provider;
+
+export '../supabase.dart';
+export 'row.dart';
+export 'table.dart';
+
+export 'tables/configuracoes_empresa.dart';
+export 'tables/permissao.dart';
+export 'tables/view_lead_comprovantes.dart';
+export 'tables/lead_status.dart';
+export 'tables/view_historico.dart';
+export 'tables/produto_categoria.dart';
+export 'tables/lead.dart';
+export 'tables/usuario_situacao.dart';
+export 'tables/lead_notas.dart';
+export 'tables/ligacao_status.dart';
+export 'tables/view_lead.dart';
+export 'tables/relatorio_ligacoes.dart';
+export 'tables/ranking.dart';
+export 'tables/lead_origem.dart';
+export 'tables/view_produto.dart';
+export 'tables/view_ranking.dart';
+export 'tables/random_user_id.dart';
+export 'tables/configuracoes.dart';
+export 'tables/historico.dart';
+export 'tables/usuario.dart';
+export 'tables/usuario_ponto.dart';
+export 'tables/lead_comprovantes.dart';
+export 'tables/vendas_view.dart';
+export 'tables/produto.dart';
+export 'tables/view_ligacoes.dart';
+export 'tables/ligacoes.dart';
